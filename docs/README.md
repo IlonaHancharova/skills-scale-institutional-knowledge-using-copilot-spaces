@@ -34,7 +34,11 @@ Team members collaborate across defined roles: Project Managers coordinate deliv
 
 - **[Risks and Communication](octoacme-risks-and-communication.md)** – Risk register management, communication cadence, escalation paths, status templates, and stakeholder engagement strategies.
 
-- **[Roles and Personas](octoacme-roles-and-personas.md)** – Detailed responsibilities and expectations for Project Managers, Product Managers, Developers, and QA team members.
+- **[Roles and Personas](octoacme-roles-and-personas.md)** – Detailed responsibilities and expectations for all team roles including Project Managers, Product Managers, Developers, QA Lead, UX/UI Designer, DevOps Engineer, and Business Analyst.
+
+- **[Role Checklists](role-checklist.md)** – Onboarding checklists and handoff procedures for all personas to ensure smooth transitions and clear accountability.
+
+- **[Role Interaction Scenarios](role-interaction-scenarios.md)** – Practical examples of cross-role collaboration and responsibility handoffs during common project activities.
 
 ---
 
